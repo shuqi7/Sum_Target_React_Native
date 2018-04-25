@@ -5,7 +5,6 @@ A React Native iOS/Android game in which users click on numbers to get the corre
 https://github.com/shuqi7/Sum_to_Target_Game_React_Native/blob/master/Sum%20to%20Target.apk
 <br>
 <br>
-<br>
 * Player has a time of 10 seconds to finish the game
 * Player has to click on the number to get the correct sum as the one on top
 * Player can change to differnt levels in which there are different amount of numbers to click
